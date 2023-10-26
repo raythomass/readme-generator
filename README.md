@@ -11,6 +11,7 @@
   ## Installation
   Clone the GitHub repo to your local machine and open it in your desired coding program
   ## Usage
+  Refer to this video: https://youtu.be/9sFMVF_YYT8?si=1peFSyGYIbPeqqJk
   Open the integrated terminal and type "node index.js" and answer the following questions
   ## Credits
   undefined
