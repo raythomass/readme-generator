@@ -1,5 +1,4 @@
 # README Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   This application takes the user input from a series of comand line questions and generates a README file
   ## Table of Contents
@@ -14,11 +13,13 @@
   Refer to this video: https://youtu.be/9sFMVF_YYT8?si=1peFSyGYIbPeqqJk
   Open the integrated terminal and type "node index.js" and answer the following questions
   ## Credits
-  undefined
+  https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+  https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript.html
+  Bootcamp Materials
   ## Testing
   N/A
   ## License
-  This repository is covered under MIT
+  N/A
   ## Questions
   My GitHub profile is raythomass
   If you need help email me: rthomas5678@gmail.com
